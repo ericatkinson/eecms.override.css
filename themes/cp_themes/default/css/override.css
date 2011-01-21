@@ -1,21 +1,21 @@
 /*
-Site:          yoursitehere.com
-File:          /assets/themes/default/css/override.css
+Site: yoursitehere.com
+File: /themes/cp_themes/default/css/override.css
 ===========================================================
 masugadesign.com | 2011
 =========================================================== */
 
 a:hover {
 	color: #2d98db;
-}
+	}
 
 a:focus {
-	color:					#2d98db;
-}
+	color: #2d98db;
+	}
 
 table a:hover {
-	color:					#2d98db;
-}
+	color: #2d98db;
+	}
 
 .pageContents a:link,
 .pageContents a:visited {
